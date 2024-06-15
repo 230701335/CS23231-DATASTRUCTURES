@@ -1,7 +1,6 @@
 NAME: Sreyaskari
 ROLL NO.: 230701335
-
-EX-2 Implementation of Stack using Linked List
+EX-2 IMPLEMENTATION OF STACK USINF LINKED LIST
 
 
 #include <stdio.h>
