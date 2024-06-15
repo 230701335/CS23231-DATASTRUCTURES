@@ -1,4 +1,4 @@
-NAME: Sreyaskari M
+NAME: Sreyaskari 
 ROLL.NO: 230701335
 EX-2: Implementation of Double Linked List
 
